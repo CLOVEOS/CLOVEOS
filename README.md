@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Aniroodh Patil 👋</h1>
+<h3 align="center">Full-stack developer · Backend & cloud enthusiast · Student</h3>
 
-<!--
-**CLOVEOS/CLOVEOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A86AFF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+end-to-end;Node.js+%7C+FastAPI+%7C+React+%7C+React+Native;Kafka+%C2%B7+Spark+%C2%B7+Docker+%C2%B7+Kubernetes;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CLOVEOS&color=a86aff&style=flat-square&label=Profile+views" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About me
+
+- 🎓 Student who loves building **real, end-to-end products**, from the database to the phone screen
+- ⚙️ Mostly backend: **REST APIs, auth, databases, event streaming and containers**
+- 📱 Currently building **MiniLedger**, a lending tracker app (Expo + Express + PostgreSQL)
+- ☁️ Exploring **cloud & big data**: Kafka, Spark, Docker, Kubernetes, Azure / GCP
+- 🌱 Learning by shipping. Every repo here is something I built to understand how it really works
+
+---
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,c,solidity&theme=dark" alt="languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,react,tailwind,vite&theme=dark" alt="frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,kafka&theme=dark" alt="databases" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,prometheus,grafana,azure,gcp,git,linux&theme=dark" alt="devops" />
+</p>
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[CloudExec](https://github.com/CLOVEOS/cloudExec)** | Online code runner for Indian learners. Every run streams through Kafka → Spark into a personal skill profile, and errors are explained in 11 Indian languages with Sarvam AI | React · Express · Kafka · Spark · MongoDB · Docker sandboxes · Kubernetes · Prometheus |
+| **[MiniLedger](https://github.com/CLOVEOS/projectHelper)** | Mobile app to track money lent to friends: loans, repayments, overdue alerts and a dashboard, with phone + email OTP sign-in | Expo / React Native · Express 5 · PostgreSQL · Drizzle · JWT |
+| **[CoreIntegrator](https://github.com/CLOVEOS/CoreIntegrator)** | Dockerized ERP → CRM integration middleware with incremental sync, retries, batching and audit logs | Node.js · MySQL · Docker |
+| **[BookMyShow Backend](https://github.com/CLOVEOS/MovieTicketsBookingSystems)** | Movie-ticket booking APIs for movies, venues, shows, artists and bookings | FastAPI · PostgreSQL · MongoDB |
+| **[Blockchain DFS](https://github.com/CLOVEOS/decentralizedFileStorageSystem)** | Decentralized file storage: files on IPFS, CIDs stored on Ethereum (Sepolia) | Solidity · React · ethers.js · IPFS / Pinata |
+| **[FriendZone Chat](https://github.com/CLOVEOS/ChatAsap---Realtime-Chat-Application)** | Realtime chat with friend requests and Google sign-in | Next.js · TypeScript · Redis · Tailwind |
+
+<details>
+<summary><b>More projects</b></summary>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [chatMate](https://github.com/CLOVEOS/chatMate) | Realtime chat with online status and JWT auth | MERN · Socket.io · Zustand |
+| [codeSage](https://github.com/CLOVEOS/codeSage) | In-browser code editor | React · Monaco · Express |
+| [cloudinaryUploader](https://github.com/CLOVEOS/cloudinaryUploader) | Image uploads to Cloudinary | React · Vite · Node.js |
+| [E-commerce Platform](https://github.com/CLOVEOS/ECOMMERCE-PLATFORM-USING-NODE.JS) | Store with cart, orders and an admin panel | React · Redux · Express · MongoDB |
+| [Auth API](https://github.com/CLOVEOS/AUTHENTICATION-AND-AUTHORIZATION-USING-NODE.JS) | Authentication boilerplate with protected routes and CSRF protection | Express · MongoDB |
+| [Sentiment Analysis](https://github.com/CLOVEOS/sentimentAnalysis) | NLP pipeline using NLTK VADER with visual sentiment distributions | Python · NLTK |
+| [Movie Rental System](https://github.com/CLOVEOS/movieRentalSystemUsingRawCpp) | Movie renting simulation with efficient search & reports | C++17 |
+| [Iterative TCP Ticker](https://github.com/CLOVEOS/-Iterative-TCPTICKER) | TCP client–server time service with raw sockets | C |
+
+</details>
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CLOVEOS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLOVEOS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CLOVEOS&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://github.com/CLOVEOS"><img src="https://img.shields.io/badge/GitHub-CLOVEOS-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <!-- Add your links:
+  <a href="https://www.linkedin.com/in/<your-handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  -->
+</p>
+
+<p align="center"><i>"A little more clarity. A lot less remembering."</i></p>
