@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CLOVEOS&color=a86aff&style=flat-square&label=Profile+views" alt="profile views" />
+  <a href="https://github.com/CLOVEOS?tab=repositories"><img src="https://img.shields.io/badge/Repositories-27-a86aff?style=flat-square&logo=github" alt="repositories" /></a>
+  <a href="https://leetcode.com/u/SAYHYTOGOD"><img src="https://img.shields.io/badge/LeetCode-SAYHYTOGOD-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -63,9 +64,13 @@
 
 ### 📊 GitHub stats
 
+<!-- These cards are generated daily by .github/workflows/profile-cards.yml and stored in this repo -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CLOVEOS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLOVEOS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most used languages" />
 </p>
 
 <p align="center">
@@ -78,6 +83,7 @@
 
 <p align="left">
   <a href="https://github.com/CLOVEOS"><img src="https://img.shields.io/badge/GitHub-CLOVEOS-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/SAYHYTOGOD"><img src="https://img.shields.io/badge/LeetCode-SAYHYTOGOD-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <!-- Add your links:
   <a href="https://www.linkedin.com/in/<your-handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
