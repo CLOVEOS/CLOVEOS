@@ -16,7 +16,6 @@
 
 - 🎓 Student who loves building **real, end-to-end products**, from the database to the phone screen
 - ⚙️ Mostly backend: **REST APIs, auth, databases, event streaming and containers**
-- 📱 Currently building **MiniLedger**, a lending tracker app (Expo + Express + PostgreSQL)
 - ☁️ Exploring **cloud & big data**: Kafka, Spark, Docker, Kubernetes, Azure / GCP
 - 🌱 Learning by shipping. Every repo here is something I built to understand how it really works
 
